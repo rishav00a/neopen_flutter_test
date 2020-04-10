@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "3397772520",
+    "firebase_url": "https://chatbot-fcdf4.firebaseio.com",
+    "project_id": "chatbot-fcdf4",
+    "storage_bucket": "chatbot-fcdf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3397772520:android:5d74bac41c78cb2af5d55d",
+        "android_client_info": {
+          "package_name": "com.haxotech.glinic_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3397772520-5q68a51emq45cjpe5q9n0eksddm2ksih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8dN933mvQFGMLALnfq9IV0_okBBm5v0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3397772520-5q68a51emq45cjpe5q9n0eksddm2ksih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
