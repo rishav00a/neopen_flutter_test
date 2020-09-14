@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_setting" type="id"></item>
+    <item name="action_connect" type="id"></item>
+    <item name="action_disconnect" type="id"></item>
+    <item name="action_offline_list" type="id"></item>
+    <item name="action_offline_list_page" type="id"></item>
+    <item name="action_offline_note_info" type="id"></item>
+    <item name="action_upgrade" type="id"></item>
+    <item name="action_pen_status" type="id"></item>
+    <item name="action_profile_test" type="id"></item>
+    <item name="action_pen_unpairing" type="id"></item>
+    <item name="action_symbol_stroke" type="id"></item>
+    <item name="action_convert_neoink" type="id"></item>
+    <item name="action_db_export" type="id"></item>
+    <item name="action_db_delete" type="id"></item>
+</resources>
